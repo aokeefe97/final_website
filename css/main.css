@@ -1,0 +1,49 @@
+.banner {
+    position:absolute;
+    left: 256px;
+}
+
+nav {
+    position:absolute;
+    top:216px;
+    left:256px;
+    right:256px;
+    width:60%;
+    height:64px;
+}
+
+.nav_table {
+    border: 2px solid black;
+    height:64px;
+    width:100%;
+}
+
+.nav_table_row {
+    border: 2px solid black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.header_text {
+    font-family:"Segoe UI", "Helvetica", sans-serif;
+    font-size: 32px;
+    position:relative;
+    top:264px;
+    left:0px;
+    right:0px;
+    text-align:center;
+}
+
+img {
+    padding:none;
+}
+
+.intro_paragraph {
+    position:absolute;
+    top:312px;
+    left:256px;
+    right:256px;
+}
